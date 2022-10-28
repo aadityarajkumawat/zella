@@ -1,0 +1,23 @@
+{
+    "name": "zella",
+    "version": "1.0.0",
+    "description": "A secure password manager",
+    "main": "dist/main.js",
+    "bin": {
+        "zella": "dist/main.js"
+    },
+    "author": "Aditya Raj Kumawat",
+    "license": "MIT",
+    "scripts": {
+        "watch": "tsc -w"
+    },
+    "devDependencies": {
+        "@types/node": "^18.11.5",
+        "nodemon": "^2.0.20",
+        "typescript": "^4.8.4"
+    },
+    "dependencies": {
+        "execa": "^6.1.0",
+        "fp-ts": "^2.13.1"
+    }
+}

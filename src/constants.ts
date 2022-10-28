@@ -1,0 +1,5 @@
+export const ZELLA_FILE = '/home/aditya/.zella'
+export const NEW_LINE = '\n'
+export const SEPERATOR = ':'
+export const CLIPBOARD = 'xsel'
+export const ENCRYPTION_KEY = 'jfgfvsjdfvdssv^%DYcdu4f37fry4#$%^$TGFRGFERT$%F'
